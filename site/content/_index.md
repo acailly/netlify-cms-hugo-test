@@ -1,6 +1,6 @@
 ---
-title: Judo Yoga Club de Chateaubourg
-subtitle: Apprendre et développer sa pratique dans une ambiance conviviale et studieuse
+title: Judo Yoga Club
+subtitle: " de Châteaubourg"
 image: img/diogo-nunes-dgmotipocgu-unsplash.jpg
 blurb:
   heading: Qui sommes nous ?
@@ -14,7 +14,7 @@ intro:
   text: blabla
 products:
   - image: img/joshua-jamias-qmdqe3cs5og-unsplash.jpg
-    text: Le Judo ....
+    text: Le Judo ...
   - image: img/dane-wetton-t1nemsm1rgi-unsplash.jpg
     text: Le Yoga ...
 values:
