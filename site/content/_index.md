@@ -17,7 +17,4 @@ products:
     text: Le Judo ...
   - image: img/dane-wetton-t1nemsm1rgi-unsplash.jpg
     text: Le Yoga ...
-values:
-  heading: Une autre rubrique
-  text: blablabla
 ---
