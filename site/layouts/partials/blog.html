@@ -1,9 +1,9 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb3">Actualité</h2>
+    <h2 class="f2 b lh-title mb3">Actualités</h2>
 
     <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-      {{ range first 4 (where .Data.Pages "Type" "post") }}
+      {{ range first 4 (where .Data.Pages "Type" "actualites") }}
       <div class="ph1-ns w-50-ns flex">
         {{ .Render "li" }}
       </div>
@@ -11,7 +11,7 @@
     </div>
 
     <div class="tc">
-      <a href="/post" class="btn raise">Read more</a>
+      <a href="/actualites" class="btn raise">Voir plus</a>
     </div>
   </div>
 </div>

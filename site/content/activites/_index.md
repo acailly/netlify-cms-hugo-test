@@ -45,7 +45,7 @@ main:
     image: /img/enseignant1.png
   image2:
     alt: Bob
-    image: /img/enseignant2.jpg
+    image: /img/enseignant2.png
 testimonials:
   - author: Jigoro Kano - Fondateur du Judo
     quote: >-
