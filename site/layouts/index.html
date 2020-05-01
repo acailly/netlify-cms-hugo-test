@@ -1,17 +1,11 @@
-<!-- prettier-ignore -->
 {{ define "main" }}
 
-<!-- prettier-ignore -->
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-<!-- prettier-ignore -->
 {{ partial "short-text" .Params.blurb}}
 
-<!-- prettier-ignore -->
 {{ partial "blog" . }}
 
-<!-- prettier-ignore -->
 {{ partial "2-up" .Params }}
 
-<!-- prettier-ignore -->
 {{ end }}
