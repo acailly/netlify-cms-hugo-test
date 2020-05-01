@@ -12,7 +12,7 @@ blurb:
 intro:
   heading: Les activités
   text: blabla
-products:
+activites:
   - image: img/joshua-jamias-qmdqe3cs5og-unsplash.jpg
     text: Le Judo ...
   - image: img/dane-wetton-t1nemsm1rgi-unsplash.jpg
